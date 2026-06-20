@@ -1,18 +1,19 @@
 # Sales-Volume-Analysis-by-Zone
 Billed volume trends for customers which is to look at fluctuations so as to manage demand versus production
-Project Overview
+
+###Project Overview
 
 This project analyzes billed water sales volumes across the Northern, Central, and Southern Zones operated by Lilongwe Water Board, a state-owned water utility company in Malawi.
 
 The analysis evaluates water sales performance, identifies consumption trends, compares zone performance, and supports data-driven decision-making for revenue optimization and improved service delivery.
 
-Background
+###Background
 
 Lilongwe Water Board is responsible for the provision of potable water services within its service area. Monitoring water sales volumes is essential for revenue generation, demand forecasting, water resource planning, commercial performance monitoring, and Non-Revenue Water (NRW) management.
 
 This project uses operational sales data to assess the performance of the three service zones.
 
-Objectives
+###Objectives
 
 • Analyze water sales volumes by zone.
 
@@ -24,7 +25,7 @@ Objectives
 
 • Support strategic planning and commercial decision-making.
 
-Study Area
+###Study Area
 
 The analysis covers the following operational zones:
 
@@ -34,7 +35,7 @@ The analysis covers the following operational zones:
 
 • Southern Zone
 
-Key Performance Indicators (KPIs)
+###Key Performance Indicators (KPIs)
 
 • Total Water Sales Volume (m³)
 
@@ -48,7 +49,8 @@ Key Performance Indicators (KPIs)
 
 • Revenue Contribution by Zone
 
-Tools Used
+
+###Tools Used
 
 • Microsoft Excel
 
@@ -56,9 +58,9 @@ Tools Used
 
 • SQL
 
-• Python (Pandas, Matplotlib)
 
-Analysis Conducted
+
+###Analysis Conducted
 
 Zone Performance Analysis
 
@@ -72,7 +74,9 @@ Commercial Performance Monitoring
 
 Assessment of sales growth, customer demand, and revenue performance.
 
-Key Insights
+
+
+###Key Insights
 
 • Central Zone recorded the highest water sales volume.
 
@@ -82,7 +86,8 @@ Key Insights
 
 • Seasonal variations influenced overall water demand.
 
-Business Value
+
+###Business Value
 
 The findings support:
 
