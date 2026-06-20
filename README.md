@@ -104,11 +104,11 @@ The findings support:
 
 • Strategic decision-making
 
-Author
+### Author
 
-Sydney Liwewe
+# Sydney Liwewe
 
-Data Analyst | Commercial Loss Analyst | Non-Revenue Water Specialist
+## Data Analyst | Commercial Loss Analyst | Non-Revenue Water Specialist
 
 Lilongwe Water Board, Malawi
 
