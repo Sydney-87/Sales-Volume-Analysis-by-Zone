@@ -1,5 +1,8 @@
 # Sales-Volume-Analysis-by-Zone
 Billed volume trends for customers which is to look at fluctuations so as to manage demand versus production
+![image alt](https://github.com/Sydney-87/Sales-Volume-Analysis-by-Zone/blob/dc1c42f9362e161e4a5e11e9858de561604ef9cd/Consumption%20trends.jpg)
+
+https://github.com/Sydney-87/Sales-Volume-Analysis-by-Zone/blob/dc1c42f9362e161e4a5e11e9858de561604ef9cd/Consumption%20trends.jpg
 
 ## Project Overview
 
